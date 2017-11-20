@@ -1,4 +1,4 @@
-package com.kid.eureka.client;
+package com.github.xychq8.eureka.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

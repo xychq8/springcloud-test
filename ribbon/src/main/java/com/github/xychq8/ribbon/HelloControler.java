@@ -1,4 +1,4 @@
-package com.kid.ribbon;
+package com.github.xychq8.ribbon;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

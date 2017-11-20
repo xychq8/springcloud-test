@@ -1,4 +1,4 @@
-package com.kid.ribbon;
+package com.github.xychq8.ribbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
